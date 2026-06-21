@@ -1,0 +1,2 @@
+// all are ok
+// if(amount > 0)
